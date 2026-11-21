@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:eu.leomartins@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-martins-8762a92b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-martins-8762a92b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=White" target="_blank"></a>
 </p>
 
 Concluí o curso técnico em TI, com duração de dois anos, e desenvolvi conhecimentos com foco em programação Back-end. Busco oportunidades para colocar meus conhecimentos em prática, aprimorar minhas habilidades de programação, enfrentar novos desafios e desenvolver soluções para problemas reais.
