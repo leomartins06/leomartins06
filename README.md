@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-<h1 align="center"> <img src="Spider-man.png" width="75px"> <img src="darthvader.png" width="75px"> </h1>
+<h1 align="center"> <img src="Marvel.gif.gif" width="75px"> <img src="Spider-man.png.png" width="75px"> </h1>
 
 <h3 align="center">  | Back-End Developer</h3>
 
