@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-<h1 align="center"> <img src="Marvel.gif.gif" width="75px"> <img src="Spider-man.png.png" width="75px"> </h1>
+<h1 align="center"> <img src="Marvel.gif.gif" width="75px"> </h1>
 
 <h3 align="center">  | Back-End Developer</h3>
 
@@ -15,3 +15,4 @@ Concluí o curso técnico em TI, com duração de dois anos, e desenvolvi conhec
 
 Atualmente, tenho interesse em seguir carreira como desenvolvedor **Back-End**, com foco em aprender e desenvolver soluções que resolvam problemas reais.
 ## 🎓Idiomas e Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,phython)](https://skillicons.dev)
