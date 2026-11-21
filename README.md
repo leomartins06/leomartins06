@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-<h1 align="center"> <img src="Marvel.gif.gif" width="75px"> </h1>
+<h1 align="center"> <img src="Marvel.gif.png" width="75px"> </h1>
 
 <h3 align="center">  | Back-End Developer</h3>
 
